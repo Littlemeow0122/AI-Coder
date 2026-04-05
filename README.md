@@ -3,7 +3,8 @@
 # 簡介
 
 簡單實用的 AI 程式碼輔助工具網站  
-試用連結：https://ai-coder-pro.vercel.app
+試用連結：https://ai-coder-pro.vercel.app  
+文檔：https://sites.google.com/view/ai-coder-pro-docs-light
 
 ## 📄 <sub>功能介紹</sub>
 <details>
