@@ -4,7 +4,12 @@
 
 簡單實用的 AI 程式碼輔助工具網站  
 試用連結：https://ai-coder-pro.vercel.app  
-文檔：https://sites.google.com/view/ai-coder-pro-docs-light
+文檔：https://sites.google.com/view/ai-coder-pro-docs-light  
+
+## APP安裝
+
+*僅限iOS 13以上*
+<a href="https://ai-coder-pro.vercel.app/install.mobileconfig"><kbd> <br> 安裝 <br> </kbd></a>
 
 ## 📄 <sub>功能介紹</sub>
 <details>
